@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, I'm Rylan 👋
+
+I am a 4th year Computer Science Co-op Student at Toronto Metropolitan University
 
 <!--
 **jrpueblo/jrpueblo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
