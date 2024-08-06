@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js, React.js**
   
-- 🔭 I’m currently working on [test](https://github.com/jrpueblo/To-Do-App)
+- 🔭 I’m currently working on [To-Do-App](https://github.com/jrpueblo/To-Do-App)
 
 - 💬 Ask me about **Java, Python and Valorant**
 
