@@ -5,6 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrpueblo&label=Profile%20views&color=0e75b6&style=flat" alt="jrpueblo" /> </p>
 
 - 🌱 I’m currently learning **Next.js, React.js**
+  
+- 🔭 I’m currently working on [test](https://github.com/jrpueblo/To-Do-App)
 
 - 💬 Ask me about **Java, Python and Valorant**
 
