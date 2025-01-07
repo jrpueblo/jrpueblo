@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rylan</h1>
-<h3 align="center">I am a 4th year Computer Science Co-op Student at Toronto Metropolitan University</h3>
-<h3 align="center">Currently Seeking Fall 2024 Co-op Opportunities</h3>
+<h3 align="center">Associate Web Developer at Civiconnect</h3>
+<h3 align="center">4th year Computer Science Co-op Student at Toronto Metropolitan University</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrpueblo&label=Profile%20views&color=0e75b6&style=flat" alt="jrpueblo" /> </p>
 
